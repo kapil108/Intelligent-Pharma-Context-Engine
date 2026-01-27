@@ -1,0 +1,13 @@
+train: c:\Users\kapil\OneDrive\Desktop\Intelligent Pharma-Context Engine\repo\data\roboflow_medicine_bottle\train\images
+val: c:\Users\kapil\OneDrive\Desktop\Intelligent Pharma-Context Engine\repo\data\roboflow_medicine_bottle\valid\images
+test: c:\Users\kapil\OneDrive\Desktop\Intelligent Pharma-Context Engine\repo\data\roboflow_medicine_bottle\test\images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: i-2wwnb
+  project: medicine-bottle-pgwic
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/i-2wwnb/medicine-bottle-pgwic/dataset/1

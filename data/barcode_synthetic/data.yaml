@@ -1,0 +1,7 @@
+
+path: C:/Users/kapil/OneDrive/Desktop/Intelligent Pharma-Context Engine/repo/data/barcode_synthetic
+train: train/images
+val: val/images
+
+nc: 1
+names: ['barcode']

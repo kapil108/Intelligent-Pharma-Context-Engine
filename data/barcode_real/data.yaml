@@ -1,0 +1,13 @@
+names:
+- barcode
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: barcode-detection-sv5m7
+  url: https://universe.roboflow.com/tj1016-6mzid/barcode-detection-sv5m7/dataset/1
+  version: 1
+  workspace: tj1016-6mzid
+path: C:/Users/kapil/OneDrive/Desktop/Intelligent Pharma-Context Engine/repo/data/barcode_real
+test: test/images
+train: train/images
+val: valid/images

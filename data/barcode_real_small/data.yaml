@@ -1,0 +1,7 @@
+
+path: C:/Users/kapil/OneDrive/Desktop/Intelligent Pharma-Context Engine/repo/data/barcode_real_small
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['barcode']
