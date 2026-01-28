@@ -1,0 +1,3 @@
+libzbar0
+libdmtx0a
+libgl1-mesa-glx
