@@ -1,0 +1,47 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# YOLOv8 training runs (large files)
+runs/
+
+# Model weights (large files)
+*.pt
+!models/best_bottle_model.pt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.local
+
+# Test outputs
+results/*.json
+verify_result_final.txt
+
+# Large data files (>100MB)
+data/openfda_labels/fda_labels.db
+data/openfda_labels/drug-label-0001-of-0001.json.zip

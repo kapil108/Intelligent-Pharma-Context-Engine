@@ -1,0 +1,18 @@
+Initializing Pipeline...
+Processing image: C:/Users/kapil/.gemini/antigravity/brain/061f6500-0ec4-414a-9ce9-f0e4843372f6/uploaded_media_1769614707319.png
+
+========================================
+          VERIFICATION RESULT
+========================================
+Detected Drug Name: None
+Confidence:         100.00%
+--------------------
+Detected Barcode:   None
+--------------------
+Manufacturer:       None
+Dosage:             1.0%
+--------------------
+FDA Verified:       True
+RxNorm CUI:         2378783
+========================================
+
