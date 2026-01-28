@@ -1,7 +1,11 @@
 # Intelligent Pharma-Context Engine
 
+## 🌐 Live Demo
+**[Try the Live Application Here](https://intelligent-pharma-context-engine-zz.streamlit.app/)**
+
 ## Project Overview
 This project builds a robust, end-to-end, production-style ML pipeline that takes raw images of medicine bottles or blister strips and produces a verified and enriched pharmaceutical record. The system extracts structured metadata from noisy OCR outputs, verifies entities against authoritative drug databases, enriches the record with clinical information, and reports objective evaluation metrics.
+
 
 ## Data Sources
 1.  **Medicine Bottle OCR Dataset (Roboflow)**
