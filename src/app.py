@@ -134,7 +134,7 @@ if uploaded_file is not None:
                 st.subheader("📸 Detected Object")
                 # Convert BGR to RGB for Streamlit
                 st_img = cv2.cvtColor(annotated_img, cv2.COLOR_BGR2RGB)
-                st.image(image, caption="Uploaded Image", use_container_width=True)
+                st.image(image, caption="Uploaded Image", use_column_width=True)
                 
                 if regions:
                     st.success(f"Detected {len(regions)} Region(s) of Interest")
