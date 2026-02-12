@@ -81,7 +81,7 @@ col1, col2 = st.columns([1, 4])
 with col1:
     st.empty() # Spacer
 with col2:
-    st.title("Intelligent Pharma-Context Engine")
+    st.title("Intelligent Pharma-Context Engine (v1.1 patch)")
     st.markdown("#### *AI-Powered Prescriptive Intelligence & Verification*")
 
 # --- LOAD PIPELINE ---
